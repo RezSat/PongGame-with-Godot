@@ -75,6 +75,7 @@ __meta__ = {
 }
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1175, 300 )
 scale = Vector2( 1, 1.5 )
 
 [node name="WallTop" type="StaticBody2D" parent="."]
@@ -99,7 +100,7 @@ position = Vector2( 512, -10.5 )
 shape = SubResource( 1 )
 
 [node name="Opponent" parent="." instance=ExtResource( 2 )]
-position = Vector2( 1175, 300 )
+position = Vector2( 100, 300 )
 scale = Vector2( 1, 1.5 )
 
 [node name="Ball" parent="." instance=ExtResource( 3 )]
