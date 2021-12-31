@@ -26,5 +26,5 @@ func score_achieved():
 	$CountdownTimer.start()
 	$CountDownLabel.visible = true
 	$ScoreSound.play()
-	$Player.position.x = 35
-	$Opponent.position.x = 1280 - 35
+	$Player.position.x = 100
+	$Opponent.position.x = 1175
