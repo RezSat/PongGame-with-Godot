@@ -11,3 +11,8 @@ This is the first game that I built with Godot and I followed a YouTube Tutorial
 [+] A timer that runs out and make the game over (Yeah now you have only have 1 min to collect points)
 [+] Show your current score, and a comment in the game over menu
 ```
+
+# Here are some screenshots
+
+<img src='https://raw.githubusercontent.com/RezSat/PongGame-with-Godot/main/Screenshot%20at%202022-01-02%2009-16-54.png'/>
+<img src="https://raw.githubusercontent.com/RezSat/PongGame-with-Godot/main/Screenshot%20at%202022-01-02%2009-17-16.png"/>
